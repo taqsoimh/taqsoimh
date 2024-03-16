@@ -1,16 +1,22 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontSize=50)
 
-<!--
-**taqsoimh/taqsoimh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my profile!
+I'm Quoc(aka tAQ/taqsoimh)
+19-year old Vietnamese.
 
-Here are some ideas to get you started:
+I'm studying Cyber Security at USTH (University of Science and Technology of Hanoi)
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts:
+* 📧⠀Email: <a href="social.taquoc@gmail.com">**social.taquoc@gmail.com**</a> | <a href="job.taquoc@gmail.com">**job.taquoc@gmail.com**</a>  (for business) <br>
+
+* [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/taq.soimh)
+
+## GitHub Stats:
+![tAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=taqsoimh&theme=shadow_blue&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taqsoimh&theme=shadow_blue&layout=compact)
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
