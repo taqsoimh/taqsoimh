@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontSize=50)
 
 # Welcome to my profile!
-I'm Quoc(aka tAQ/taqsoimh)
-19-year old Vietnamese.
+I'm Quoc(aka tAQ/taqsoimh) - Vietnamese.
 
 I'm studying Cyber Security at USTH (University of Science and Technology of Hanoi)
 
 A USTH Coder Club's (UCC's) member
+
+CTF Player
 ***
 
 ## Contacts:
