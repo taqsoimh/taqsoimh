@@ -6,7 +6,7 @@ I'm Quoc(aka tAQ/taqsoimh)
 
 I'm studying Cyber Security at USTH (University of Science and Technology of Hanoi)
 
-A USTH Coder Club's member
+A USTH Coder Club's (UCC's) member
 ***
 
 ## Contacts:
