@@ -5,6 +5,8 @@ I'm Quoc(aka tAQ/taqsoimh)
 19-year old Vietnamese.
 
 I'm studying Cyber Security at USTH (University of Science and Technology of Hanoi)
+
+A USTH Coder Club's member
 ***
 
 ## Contacts:
