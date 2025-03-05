@@ -5,9 +5,9 @@ I'm Quoc(aka tAQ/taqsoimh) - Vietnamese.
 
 I'm studying Cyber Security at USTH (University of Science and Technology of Hanoi)
 
-A USTH Coder Club's (UCC's) member
+A USTH Coder Club (UCC) member
 
-CTF Player
+CTF Player - DFIR
 ***
 
 ## Contacts:
