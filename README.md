@@ -10,13 +10,14 @@ I'm studying Cyber Security at USTH (University of Science and Technology of Han
 
 A USTH Coder Club (UCC) member
 
-CTF Player - SOC - DFIR
+CTF Player - Interested in SOC and DFIF
 
 You can find me at:
 
 - CyberDefenders: (https://cyberdefenders.org/p/taqsoimh#/overview)
 - Hackthebox: (https://app.hackthebox.com/profile/1631002)
-
+- TryHackMe: (https://tryhackme.com/p/taqsoimh)
+  
 ***
 
 
