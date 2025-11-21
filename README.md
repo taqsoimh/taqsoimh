@@ -10,7 +10,7 @@ I'm studying Cyber Security at USTH (University of Science and Technology of Han
 
 A USTH Coder Club (UCC) member
 
-CTF Player - Interested in SOC and DFIR
+CTF Player - Interested in SOC Analyst and DFIR
 
 You can find me at:
 
